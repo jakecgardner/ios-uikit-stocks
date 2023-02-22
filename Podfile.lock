@@ -1,0 +1,26 @@
+PODS:
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - FloatingPanel (2.5.5)
+  - SwiftAlgorithms (1.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - FloatingPanel
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - FloatingPanel
+    - SwiftAlgorithms
+
+SPEC CHECKSUMS:
+  Charts: 354f86803d11d9c35de280587fef50d1af063978
+  FloatingPanel: a27e7827e0f710fa6236fe2596dd1b5484cb4fc1
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+
+PODFILE CHECKSUM: e31a2eba3af3c0afc71d75a20dfae7cb835c90cc
+
+COCOAPODS: 1.11.3
